@@ -1,27 +1,26 @@
-**Account and Data Deletion Request**
+Account and Data Deletion Request
+Your privacy is important to us. We provide a simple process for users to delete their accounts and associated data from the VIA PPOB application.
 
-We value your privacy and provide an easy way for users to delete their accounts and associated data from the VIA PPOB application.
+How to Request Account Deletion
+To delete your account and all related data, please follow these steps:
 
-**How to Request Account Deletion**
-To delete your account and related data, please follow these steps:
-1. Log in to the VIA PPOB application.
-2. Go to the "Profile" menu.
-3. Select the "Help/Contact Us" option.
-4. Follow the provided instructions and confirm your account deletion request.
-5. Once confirmed, your account will be processed for deletion within a maximum of 7 business days.
-
-If you encounter any issues or wish to delete your account without logging into the app, you can submit your request via:
+Log in to the VIA PPOB application.
+Navigate to the "Profile" menu.
+Select "Help/Contact Us."
+Follow the instructions and confirm your account deletion request.
+Once confirmed, your account will be processed for deletion within 7 business days.
+Alternative Request Methods
+If you are unable to log in or experience any issues, you can request account deletion by contacting us through:
 📩 Email: via.yotta@gmail.com
 📞 Phone: +62 815-1981-5002
 
-**Types of Data That Will Be Deleted**
+Types of Data That Will Be Deleted
+When your account is deleted, the following data will be permanently removed from our system:
 
-When your account is deleted, the following data will also be permanently removed from our system:
+Profile Information (Name, Email, Phone Number)
+Transaction History
+Stored Payment Data
+User Preferences
+However, certain data may be retained for legal and compliance purposes as per our data retention policy. This data will be stored for a maximum of 90 days before being permanently deleted.
 
-Profile information (name, email, phone number)
-Transaction history
-Stored payment data
-User preferences
-However, some data may be retained for legal and compliance purposes in accordance with our data retention policy for a maximum of 90 days before being permanently deleted.
-
-For more information, please visit our Privacy Policy.
+For more details, please refer to our Privacy Policy.
