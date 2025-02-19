@@ -1,82 +1,81 @@
-**KEBIJAKAN PRIVASI**  
-**Tanggal Berlaku: 19/02/2025**  
+**PRIVACY POLICY**  
+**Effective Date: 19/02/2025**  
 
-## 1. Pendahuluan  
-Selamat datang di VIA PPOB. Privasi pengguna adalah prioritas utama kami. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, menyimpan, membagikan, dan melindungi informasi pribadi pengguna saat menggunakan aplikasi VIA PPOB. Kami mematuhi kebijakan Google Play Store serta peraturan perlindungan data yang berlaku.
+## 1. Introduction  
+Welcome to VIA PPOB. User privacy is our top priority. This Privacy Policy explains how we collect, use, store, share, and protect users' personal information while using the VIA PPOB application. We comply with Google Play Store policies and applicable data protection regulations.
 
-## 2. Informasi yang Kami Kumpulkan  
-Kami dapat mengumpulkan beberapa jenis informasi pengguna, termasuk tetapi tidak terbatas pada:
+## 2. Information We Collect  
+We may collect several types of user information, including but not limited to:
 
-- **Informasi Pribadi:** Nama, alamat email, nomor telepon, dan informasi identifikasi lainnya.
-- **Informasi Transaksi:** Data pembayaran, riwayat transaksi, dan informasi tagihan.
-- **Informasi Perangkat:** Jenis perangkat, sistem operasi, alamat IP, dan data log lainnya.
-- **Lokasi:** Jika pengguna memberikan izin, kami dapat mengumpulkan data lokasi untuk meningkatkan layanan.
-- **Data Perilaku Aplikasi:** Informasi tentang bagaimana pengguna berinteraksi dengan aplikasi untuk analisis dan peningkatan layanan.
+- **Personal Information:** Name, email address, phone number, and other identifying details.
+- **Transaction Information:** Payment data, transaction history, and billing details.
+- **Device Information:** Device type, operating system, IP address, and other log data.
+- **Location Data:** If users grant permission, we may collect location data to enhance our services.
+- **App Usage Data:** Information about how users interact with the application for analytics and service improvements.
 
-## 3. Cara Kami Menggunakan Informasi  
-Kami menggunakan informasi pengguna untuk:
+## 3. How We Use Information  
+We use user information to:
 
-- Memproses transaksi dan pembayaran dengan aman.
-- Memberikan layanan pelanggan dan dukungan teknis.
-- Mengembangkan, meningkatkan, dan mengoptimalkan layanan aplikasi.
-- Mengirimkan notifikasi terkait transaksi dan promosi (jika diizinkan oleh pengguna).
-- Mematuhi peraturan hukum yang berlaku dan mencegah aktivitas ilegal.
+- Securely process transactions and payments.
+- Provide customer service and technical support.
+- Develop, improve, and optimize the application services.
+- Send notifications related to transactions and promotions (if permitted by the user).
+- Comply with applicable legal regulations and prevent illegal activities.
 
-## 4. Bagaimana Kami Melindungi Informasi Pengguna  
-Kami menerapkan langkah-langkah keamanan teknis dan administratif untuk melindungi informasi pengguna dari akses tidak sah, perubahan, pengungkapan, atau penghancuran data. Kami menggunakan enkripsi dan protokol keamanan yang sesuai untuk melindungi data pengguna.
+## 4. How We Protect User Information  
+We implement technical and administrative security measures to protect user information from unauthorized access, alteration, disclosure, or destruction. We use encryption and appropriate security protocols to safeguard user data.
 
-## 5. Berbagi Informasi dengan Pihak Ketiga  
-Kami **tidak** menjual atau menyewakan informasi pribadi pengguna kepada pihak ketiga. Namun, kami dapat membagikan informasi dengan:
+## 5. Sharing Information with Third Parties  
+We **do not** sell or rent users' personal information to third parties. However, we may share information with:
 
-- **Penyedia layanan pihak ketiga**, seperti penyedia pembayaran (Cashlez), layanan cloud, dan analitik untuk mendukung layanan kami.
-- **Otoritas hukum**, jika diwajibkan untuk memenuhi kewajiban hukum atau melindungi hak dan keamanan pengguna.
+- **Third-party service providers**, such as payment providers (Cashlez), cloud services, and analytics to support our services.
+- **Legal authorities**, if required to comply with legal obligations or to protect user rights and security.
 
-Kami hanya membagikan data sesuai dengan ketentuan hukum yang berlaku dan memastikan bahwa mitra kami mematuhi kebijakan privasi yang sesuai.
+We only share data in accordance with applicable legal provisions and ensure that our partners comply with appropriate privacy policies.
 
-## 6. Hak Pengguna  
-Pengguna memiliki hak untuk:
+## 6. User Rights  
+Users have the right to:
 
-- Mengakses dan memperbarui informasi pribadi mereka.
-- Meminta penghapusan data pribadi mereka jika tidak lagi digunakan untuk layanan yang diperlukan.
-- Menolak penggunaan data untuk tujuan pemasaran dengan mengubah pengaturan dalam aplikasi.
+- Access and update their personal information.
+- Request deletion of their personal data if it is no longer needed for necessary services.
+- Opt out of data usage for marketing purposes by adjusting settings within the application.
 
-## 7. Kebijakan Cookie dan Teknologi Pelacakan  
-Kami dapat menggunakan cookie atau teknologi serupa untuk meningkatkan pengalaman pengguna, menganalisis penggunaan aplikasi, dan menyediakan layanan yang lebih baik. Pengguna dapat mengatur preferensi cookie melalui pengaturan perangkat mereka.
+## 7. Cookie Policy and Tracking Technologies  
+We may use cookies or similar technologies to enhance user experience, analyze app usage, and provide better services. Users can manage their cookie preferences through their device settings.
 
-## 8. Penyimpanan dan Retensi Data  
-Kami menyimpan informasi pengguna selama diperlukan untuk tujuan layanan atau sebagaimana diwajibkan oleh hukum. Jika pengguna ingin menghapus informasi mereka, mereka dapat menghubungi kami melalui kontak yang disediakan.
+## 8. Data Storage and Retention  
+We retain user information as long as necessary for service purposes or as required by law. If users wish to delete their information, they can contact us via the provided contact details.
 
-## 9. Penggunaan Data dalam Transaksi App to App  
-Aplikasi VIA bekerja sama dengan perusahaan aplikasi Cashlez untuk memproses transaksi. Oleh karena itu, aplikasi VIA menggunakan izin:
+## 9. Data Usage in App-to-App Transactions  
+The VIA application collaborates with the Cashlez application for transaction processing. Therefore, VIA uses the following permission:
 
 ```
 <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" tools:ignore="QueryAllPackagesPermission"/>
 ```
 
-untuk dapat mengakses dan berinteraksi dengan aplikasi Cashlez.
+to access and interact with the Cashlez application.
 
-**Flow transaksi adalah sebagai berikut:**
-1. Pengguna melakukan pembelian di aplikasi VIA.
-2. Saat memilih metode pembayaran Cashlez, aplikasi VIA mengirimkan permintaan pembayaran ke aplikasi Cashlez.
-3. Transaksi diproses di dalam aplikasi Cashlez.
-4. Setelah transaksi berhasil di Cashlez, aplikasi ini mengirimkan respons hasil transaksi ke aplikasi VIA.
-5. Aplikasi VIA menangkap seluruh respons dari Cashlez dan mengirimkannya ke backend VIA untuk verifikasi final status transaksi.
+**Transaction flow is as follows:**
+1. The user makes a purchase in the VIA application.
+2. When selecting the Cashlez payment method, the VIA app sends a payment request to the Cashlez app.
+3. The transaction is processed within the Cashlez app.
+4. After a successful transaction in Cashlez, the app sends the transaction result response to the VIA app.
+5. The VIA app captures the entire response from Cashlez and sends it to the VIA backend for final transaction status verification.
 
-Kami memastikan bahwa semua data transaksi yang ditangkap dan dikirim antara aplikasi VIA dan Cashlez tetap aman serta sesuai dengan kebijakan privasi yang berlaku.
+We ensure that all transaction data captured and transmitted between VIA and Cashlez remains secure and complies with applicable privacy policies.
 
-## 10. Kepatuhan terhadap Kebijakan Google Play dan Target Pengguna  
-- Jika aplikasi ini menargetkan anak-anak, kami mematuhi kebijakan **Google Play Families Policy**, termasuk pembatasan pengumpulan data.
-- Jika aplikasi ini berisi **iklan**, kami akan memberikan transparansi kepada pengguna mengenai jenis iklan yang ditampilkan dan bagaimana data digunakan untuk personalisasi iklan.
+## 10. Compliance with Google Play Policies and User Targeting  
+- If this application targets children, we comply with **Google Play Families Policy**, including restrictions on data collection.
+- If this application contains **ads**, we provide transparency to users regarding the types of ads displayed and how data is used for ad personalization.
 
-## 11. Perubahan pada Kebijakan Privasi  
-Kami dapat memperbarui kebijakan privasi ini dari waktu ke waktu. Perubahan yang signifikan akan diberitahukan kepada pengguna melalui aplikasi atau email. Pengguna disarankan untuk secara berkala meninjau kebijakan ini.
+## 11. Changes to the Privacy Policy  
+We may update this Privacy Policy from time to time. Significant changes will be notified to users via the app or email. Users are encouraged to periodically review this policy.
 
-## 12. Kontak Kami  
-Jika ada pertanyaan atau kekhawatiran terkait Kebijakan Privasi ini, pengguna dapat menghubungi kami melalui:
+## 12. Contact Us  
+For any questions or concerns regarding this Privacy Policy, users can contact us via:
 
-- **Email:** via.yotta@gmail.com
-- **Telepon:** +62 815-1981-5002
-- **Alamat:** Gd. Sahid Sudirman Centre Unit E Lt 56 Jl. Jenderal Sudirman No.86 Jakarta Pusat 1220
+- **Email:** via.yotta@gmail.com  
+- **Phone:** +62 815-1981-5002  
+- **Address:** Gd. Sahid Sudirman Centre Unit E Lt 56 Jl. Jenderal Sudirman No.86 Jakarta Pusat 1220  
 
-Dengan menggunakan aplikasi VIA PPOB, pengguna menyetujui Kebijakan Privasi ini.
-
+By using the VIA PPOB application, users agree to this Privacy Policy.
