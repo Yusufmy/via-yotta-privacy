@@ -11,7 +11,7 @@ Kami dapat mengumpulkan beberapa jenis informasi pengguna, termasuk tetapi tidak
 - Informasi Pribadi: Nama, alamat email, nomor telepon, dan informasi identifikasi lainnya.
 - Informasi Transaksi: Data pembayaran, riwayat transaksi, dan informasi tagihan.
 - Informasi Perangkat: Jenis perangkat, sistem operasi, alamat IP, dan data log lainnya.
-- Lokasi: Jika pengguna memberikan izin, kami dapat mengumpulkan data lokasi untuk meningkatkan layanan.
+- Lokasi:* Jika pengguna memberikan izin, kami dapat mengumpulkan data lokasi untuk meningkatkan layanan.
 
 3. Cara Kami Menggunakan Informasi
 Informasi yang dikumpulkan digunakan untuk:
@@ -45,7 +45,7 @@ Kami dapat menggunakan cookie atau teknologi serupa untuk meningkatkan pengalama
 Kami menyimpan informasi pengguna selama diperlukan untuk tujuan layanan atau sebagaimana diwajibkan oleh hukum. Jika pengguna ingin menghapus informasi mereka, mereka dapat menghubungi kami.
 
 9. Penggunaan Data dalam Transaksi App to App
-Aplikasi VIA bekerja sama dengan perusahaan aplikasi Cashlez untuk memproses transaksi. Oleh karena itu, aplikasi VIA menggunakan izin <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" tools:ignore="QueryAllPackagesPermission" /> agar dapat mengakses dan berinteraksi dengan aplikasi Cashlez.
+Aplikasi VIA bekerja sama dengan perusahaan aplikasi Cashlez untuk memproses transaksi. Oleh karena itu, aplikasi VIA menggunakan izin *<uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" tools:ignore="QueryAllPackagesPermission" />* agar dapat mengakses dan berinteraksi dengan aplikasi Cashlez.
 
 Flow transaksi adalah sebagai berikut:
 1. Pengguna melakukan pembelian di aplikasi VIA.
@@ -66,4 +66,4 @@ Jika ada pertanyaan atau kekhawatiran terkait Kebijakan Privasi ini, pengguna da
 - Telepon: +62 815-1981-5002
 - Alamat: Gd. Sahid Sudirman Centre Unit E Lt 56 Jl. Jenderal Sudirman No.86 Jakarta Pusat 1220
 
-Dengan menggunakan aplikasi VIA PPOB, pengguna menyetujui Kebijakan Privasi ini.
+Dengan menggunakan aplikasi VIA PPOB, pengguna menyetujui Kebijakan Privasi ini
