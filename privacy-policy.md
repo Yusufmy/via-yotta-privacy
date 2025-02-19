@@ -1,6 +1,6 @@
 PRIVACY POLICY
 
-Effective Date: [Tanggal Berlaku]
+Effective Date: 19/02/2025
 
 1. Introduction
 Selamat datang di VIA PPOB. Privasi pengguna sangat penting bagi kami. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, menyimpan, dan melindungi informasi pribadi pengguna saat menggunakan aplikasi VIA PPOB.
