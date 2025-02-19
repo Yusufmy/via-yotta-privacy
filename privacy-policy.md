@@ -46,7 +46,7 @@ Kami menyimpan informasi pengguna selama diperlukan untuk tujuan layanan atau se
 
 9. Penggunaan Data dalam Transaksi App to App
 Aplikasi VIA bekerja sama dengan perusahaan aplikasi Cashlez untuk memproses transaksi. Oleh karena itu, aplikasi VIA menggunakan izin 
-"<uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" tools:ignore="QueryAllPackagesPermission" />" agar dapat mengakses dan berinteraksi dengan aplikasi Cashlez.
+"<uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" tools:ignore="QueryAllPackagesPermission"/>" agar dapat mengakses dan berinteraksi dengan aplikasi Cashlez.
 
 Flow transaksi adalah sebagai berikut:
 1. Pengguna melakukan pembelian di aplikasi VIA.
