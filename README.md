@@ -1,4 +1,4 @@
-**Account and Data Deletion Request**  
+## Account and Data Deletion Request
 
 Your privacy is important to us. We provide a simple process for users to delete their accounts and associated data from the VIA PPOB application.
 
